@@ -1,3 +1,7 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+R
+"contracts/property-management.clar,f/e/fe85df7eb1e2c5d5b3563926f61d096d4922bda5
+Q
+!tests/property-management.test.ts,7/3/730bc7a3cd5e1755b898a6000cb4990182adb542
